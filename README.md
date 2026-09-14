@@ -12,7 +12,7 @@ A few projects are pinned below.
 ### ⚡ Quick facts
 
 - 📍 Based in New Caledonia (UTC+11)
-- 🏢 Full-time Software Engineer at OPT-NC
+- 🏢 Full-time Application Designer & Software Developer at OPT-NC
 - 💬 Ask me about application architecture, database design, and full-stack development
 - 📫 Reach me at: **deram.waren01@gmail.com**
 
